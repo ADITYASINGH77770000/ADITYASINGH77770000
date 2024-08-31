@@ -1,3 +1,4 @@
+![logo](https://github.com/ADITYASINGH77770000/ADITYASINGH77770000/blob/main/aditya%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">Aspiring Data Scientist and Machine Learning Enthusiast</h3>
 
