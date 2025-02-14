@@ -1,56 +1,53 @@
-![logo](https://github.com/ADITYASINGH77770000/ADITYASINGH77770000/blob/main/adityaa%20banner.png)
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Aspiring Data Scientist and Machine Learning Enthusiast</h3>
+## 👋 Hello, I'm Aditya Singh!
 
-<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+🚀 **Aspiring AI Engineer**  
+📍 **Student at SRM University**  
+💡 Passionate about **Machine Learning, Deep Learning, AI, Power BI, SQL, and Python**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh77770000&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh77770000" /> </p>
+### 🔥 About Me:
+- 💻 **Projects:** Stock Prediction, Sales Forecasting, Credit Card Fraud Detection, and more.
+- 📊 **LLM & GEN AI Enthusiast:** Open Source Models & Closed Source Models.
+- 🤖 **Building Finnovix:** A **finance Bot** for stock analysis & prediction.
 
-- 📫 How to reach me **ar4564@srmist.edu.in**
+### 📌 **My Tech Stack:**
 
-- ⚡ Fun fact **I am Focused**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5E5DF0?style=for-the-badge&logo=spaCy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4500?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6A5ACD?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude-008080?style=for-the-badge&logo=anthropic&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-FF1493?style=for-the-badge&logo=meta&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/aditya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya singh" height="30" width="40" /></a>
-<a href="https://fb.com/aditya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya singh" height="30" width="40" /></a>
-<a href="https://instagram.com/thakuraditya00007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakuraditya00007" height="30" width="40" /></a>
-</p>
+### 🚀 **Projects:**
+🔹 **[AI-Assistant](https://huggingface.co/spaces/Aditya7777/AI-Assistant)** (hugging Face,Gemini,Gradio)  
+🔹 **[Finnovix Bot](https://finnovix-bot-4.onrender.com/)** (LSTM,Streamlit,Python,Render)  
+🔹 **[Code-Converter](https://huggingface.co/spaces/Aditya7777/Code-Converter)** (Hugging face,gemini,)  
+🔹 **[Credit Card Fraud Detection](https://github.com/yourusername/fraud-detection)** (Detecting fraud transactions using ML algorithms)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+### 📈 **GitHub Stats:**
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasingh77770000&show_icons=true&locale=en&layout=compact" alt="adityasingh77770000" /></p>
+### 🎬 **GIF Section:**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh77770000&show_icons=true&locale=en" alt="adityasingh77770000" /></p>
+### 🔗 **Let's Connect:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-7210b2267/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thakuraditya00007/)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Aditya7777)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hjhjhjhhuhbjb)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com/)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh77770000&" alt="adityasingh77770000" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasingh77770000" alt="adityasingh77770000" /></a> </p>
+
+🚀 **Let's collaborate and build something amazing!** ✨
