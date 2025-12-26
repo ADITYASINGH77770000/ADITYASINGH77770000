@@ -47,6 +47,9 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hjhjhjhhuhbjb)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://adityaa-singh-portfolio-13ny.vercel.app/)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasingh77770000" alt="adityasingh77770000" /></a> </p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
+
 
 🚀 **Let's collaborate and build something amazing!** ✨
