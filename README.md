@@ -1,276 +1,140 @@
-<div align="center">
-
-# 👋 Hello, I'm Aditya Singh!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+AI+%F0%9F%92%A1;LLM+%26+Gen+AI+Explorer+%F0%9F%A7%A0" alt="Typing SVG" />
+<a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="assets/banner.svg" width="100%" alt="Aditya Singh, AI Engineer. I build AI products for finance, education and climate resilience."></a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+  <a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0b0c?style=for-the-badge&logo=vercel&logoColor=00d2e3" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aditya-singh-7210b2267/"><img src="https://img.shields.io/badge/LinkedIn-0a0b0c?style=for-the-badge&logo=linkedin&logoColor=00d2e3" alt="LinkedIn"></a>
+  <a href="https://aditya-singh-ai-engineer.vercel.app/assets/resume/Aditya-Singh-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0a0b0c?style=for-the-badge&logo=readdotcv&logoColor=00d2e3" alt="Résumé"></a>
+  <a href="mailto:adssingh9090@gmail.com"><img src="https://img.shields.io/badge/Email-0a0b0c?style=for-the-badge&logo=gmail&logoColor=00d2e3" alt="Email"></a>
+  <a href="https://huggingface.co/Aditya7777"><img src="https://img.shields.io/badge/Hugging_Face-0a0b0c?style=for-the-badge&logo=huggingface&logoColor=00d2e3" alt="Hugging Face"></a>
+  <a href="https://www.kaggle.com/hjhjhjhhuhbjb"><img src="https://img.shields.io/badge/Kaggle-0a0b0c?style=for-the-badge&logo=kaggle&logoColor=00d2e3" alt="Kaggle"></a>
 </p>
-
-### 🎓 Student at SRM University | 💡 AI & ML Innovator | 🌟 Data Science Enthusiast
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-## 🔥 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-```python
-class AdityaSingh:
-    def __init__(self):
-        self.role = "Aspiring AI Engineer"
-        self.university = "SRM University"
-        self.location = "India 📍"
-        self.interests = [
-            "Machine Learning", "Deep Learning", 
-            "Generative AI", "LLMs", "Data Science"
-        ]
-        self.current_project = "Finnovix - Finance Bot 🤖"
-    
-    def get_specialization(self):
-        return {
-            "AI/ML": ["TensorFlow", "PyTorch", "Scikit-Learn"],
-            "Data": ["Power BI", "SQL", "Python"],
-            "Deployment": ["Streamlit", "Render", "Hugging Face"],
-            "Focus": ["Stock Prediction", "NLP", "Computer Vision"]
-        }
-    
-    def daily_routine(self):
-        return "Code → Learn → Build → Repeat 🔁"
-```
-
-### 💼 What I Do:
-- 🎯 **Building AI Solutions:** From stock prediction to fraud detection
-- 🧠 **LLM & Generative AI:** Exploring both open-source and closed-source models
-- 📊 **Data Analysis:** Transforming data into actionable insights with Power BI & SQL
-- 🤖 **Creating Finnovix:** An intelligent finance bot for stock analysis & prediction
-- 🚀 **Continuous Learning:** Always exploring new AI technologies and methodologies
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="250">
-
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🤖 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4500?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🧠 NLP & Large Language Models
-![NLP](https://img.shields.io/badge/NLP-5E5DF0?style=for-the-badge&logo=spaCy&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-6A5ACD?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FFD700?style=for-the-badge&logo=googlecloud&logoColor=black)
-
-### 🌐 AI Models & Platforms
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-008080?style=for-the-badge&logo=anthropic&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-FF1493?style=for-the-badge&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 📊 Data & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="250">
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Assistant
-**Intelligent AI assistant powered by Gemini**
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=google&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
-
-A powerful AI assistant that helps users with various tasks using advanced language models.
-
-**[View Project →](https://huggingface.co/spaces/Aditya7777/AI-Assistant)**
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Finnovix Bot
-**Finance bot for stock analysis & prediction**
-
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-An intelligent bot that analyzes stock market trends and provides predictions.
-
-**[View Project →](https://finnovix-bot-4.onrender.com/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 Code-Converter
-**Convert code between programming languages**
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-1A73E8?style=flat-square&logo=google&logoColor=white)
-
-Seamlessly convert code from one programming language to another using AI.
-
-**[View Project →](https://huggingface.co/spaces/Aditya7777/Code-Converter)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 Credit Card Fraud Detection
-**ML-based fraud detection system**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Detecting fraudulent credit card transactions using machine learning algorithms.
-
-**[View Project →](https://github.com/yourusername/fraud-detection)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Goals & Vision
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="250">
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🚀 Short Term
-- Launch Finnovix Bot to production
-- Master advanced LLM fine-tuning
-- Complete 5 AI projects
-- Contribute to open-source
-
-</td>
-<td width="33%" align="center">
-
-### 📚 Medium Term
-- Build a SaaS AI product
-- Publish research papers
-- Mentor aspiring AI engineers
-- Win Kaggle competitions
-
-</td>
-<td width="33%" align="center">
-
-### 🌟 Long Term
-- Become an AI Research Scientist
-- Create impactful AI solutions
-- Lead AI innovation teams
-- Shape the future of AI
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" width="660">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3000&pause=900&color=00D2E3&center=true&vCenter=true&width=720&lines=Building+AI+products+that+ship;Quant+research+%C2%B7+GenAI+%26+RAG+%C2%B7+Computer+vision;MCA+in+Generative+AI+at+SRM+IST;Open+to+AI%2FML+engineering+roles" alt="Building AI products that ship">
 </p>
 
-### 🌐 Find Me Around the Web
+## About me
 
-<table align="center">
+I'm Aditya, an AI engineer finishing an MCA in Generative AI at SRM IST. I build end-to-end AI products: forecasting and quant research for finance, LLM and RAG tools for education, and computer vision with GIS for climate resilience.
+
+- 🎓 **MCA, Generative AI** at SRM IST (2025–27) · BCA, Data Science (2022–25)
+- 🚀 **Google Student Ambassador** (2025)
+- 🏆 **4 hackathon podium finishes** across 10+ hackathons
+- 💼 **Open to AI/ML engineering roles** · Delhi, on-site or hybrid
+
+<br>
+
+<a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="assets/portfolio-preview.webp" width="100%" alt="A tour of my portfolio: a 3D portrait, the skills lap, project rows, the hackathon podium and a live forward-pass network"></a>
+<p align="center"><sub>My portfolio: a WebGL portrait, every project in one scroll, and a footer that runs a live forward pass. <a href="https://aditya-singh-ai-engineer.vercel.app/"><b>Open it →</b></a></sub></p>
+
+## Featured projects
+
+<table>
 <tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/aditya-singh-7210b2267/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br><b>Professional Network</b>
-</a>
+<td colspan="2">
+
+### 📈 AlphaForage &nbsp;<sub><code>QUANT ML</code> · <b>LIVE</b></sub>
+
+Forecasts markets with **XGBoost, LSTM and Transformer** models on leakage-free chronological splits, detects market regimes with an **HMM**, and runs every strategy through an **Honesty Engine** (Deflated Sharpe, probability of backtest overfitting, walk-forward, Monte Carlo) that rejects edges that are only overfit.
+
+`XGBoost` `LSTM` `Transformer` `HMM` `Monte Carlo` `FastAPI`
+
+**[Live demo](https://alpha-forage.vercel.app)** · **[Code](https://github.com/ADITYASINGH77770000/AlphaForage)**
+
 </td>
-<td align="center" width="25%">
-<a href="https://www.instagram.com/thakuraditya00007/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<br><b>Personal Updates</b>
-</a>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Denominator
+<sub><code>EXPLAINABLE ML</code></sub>
+
+Calibrated **XGBoost** fraud scoring on 118K held-out transactions (PR-AUC 2× a logistic baseline), **SHAP** explanations, **EWMA drift detection** and **Gemini**-written analyst notes, served through FastAPI.
+
+`XGBoost` `SHAP` `Calibration` `Drift detection` `LLM`
+
+**[Code](https://github.com/ADITYASINGH77770000/Denominator)**
+
 </td>
-<td align="center" width="25%">
-<a href="https://huggingface.co/Aditya7777">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br><b>AI Projects</b>
-</a>
+<td width="50%" valign="top">
+
+### 🌧️ RainGuard AI
+<sub><code>DEEP LEARNING · RL · RAG</code></sub>
+
+An **ANN** predicts flood risk from live weather, a **reinforcement-learning** policy decides when to alert, **computer vision** reads satellite and flood imagery, and a **RAG** assistant answers from official disaster guidelines.
+
+`TensorFlow` `RL` `OpenCV` `RAG` `LangChain` `Gemini`
+
+**[Code](https://github.com/ADITYASINGH77770000/Rain-Guard-AI)**
+
 </td>
-<td align="center" width="25%">
-<a href="https://www.kaggle.com/hjhjhjhhuhbjb">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<br><b>Data Science</b>
-</a>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💹 Finnovix
+<sub><code>TIME-SERIES DL</code></sub>
+
+**LSTM** stock-price forecasting with **anomaly detection** and automated report generation, wrapped in an assistant for non-technical users.
+
+`LSTM` `TensorFlow` `Anomaly detection` `Streamlit`
+
+**[Live demo](https://finnovix-bot-4.onrender.com/)** · **[Code](https://github.com/ADITYASINGH77770000/Finance-Bot)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 BrainWave
+<sub><code>GENAI · NLP</code></sub>
+
+A **Gemini**-powered learning assistant: code generation, Q&A and summarisation, built on NLP pipelines with **Transformers** and **spaCy**.
+
+`Gemini` `LLMs` `Transformers` `spaCy`
+
+**[Code](https://github.com/ADITYASINGH77770000/BrainWave)**
+
 </td>
 </tr>
 </table>
 
-<a href="https://adityaa-singh-portfolio-13ny.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+## On the podium
 
----
+<table>
+<tr>
+<td align="center" width="25%">🥇<br><b>Champions</b><br><sub>Code Jam Hackathon<br>SRM IST · Jan 2025</sub></td>
+<td align="center" width="25%">🥈<br><b>Runner-up</b><br><sub>Avinya '25<br>NSUT · Apr 2025</sub></td>
+<td align="center" width="25%">🏆<br><b>Best Use of Gen AI</b><br><sub>HackHound 3.0<br>Mar 2025</sub></td>
+<td align="center" width="25%">🏅<br><b>Top-5 team</b><br><sub>Cube Innovators Hackathon<br>Tryst '25 · IIT Delhi</sub></td>
+</tr>
+</table>
 
-### ⚡ Fun Facts About Me
+**Certificates:** Google Student Ambassador · LLM Engineering (Udemy) · Data Science internships at CodeClause and Encryptix · ISRO Bharatiya Antariksh Hackathon 2026
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **Coffee Powers My Code** - I turn ☕ into algorithms!  
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> **Always Learning** - If I'm not coding, I'm learning something new!  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> **AI Enthusiast** - Passionate about making AI accessible to everyone!  
+## Tech stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,mysql,gcp,git&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, MySQL, Google Cloud, Git">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0a0b0c?style=flat-square&logo=langchain&logoColor=00d2e3" alt="LangChain">
+  <img src="https://img.shields.io/badge/Hugging_Face-0a0b0c?style=flat-square&logo=huggingface&logoColor=00d2e3" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Gemini-0a0b0c?style=flat-square&logo=googlegemini&logoColor=00d2e3" alt="Gemini">
+  <img src="https://img.shields.io/badge/XGBoost-0a0b0c?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/spaCy-0a0b0c?style=flat-square&logo=spacy&logoColor=00d2e3" alt="spaCy">
+  <img src="https://img.shields.io/badge/Pandas-0a0b0c?style=flat-square&logo=pandas&logoColor=00d2e3" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-0a0b0c?style=flat-square&logo=numpy&logoColor=00d2e3" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-0a0b0c?style=flat-square&logo=jupyter&logoColor=00d2e3" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Streamlit-0a0b0c?style=flat-square&logo=streamlit&logoColor=00d2e3" alt="Streamlit">
+</p>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+## Writing
 
-### 💬 *"The best way to predict the future is to create it with AI!"* - Aditya Singh
+I break down ML systems on LinkedIn: how multimodal inference really runs on a GPU, why quantum computers don't "try every answer at once", and how to tell a real trading edge from an overfit one. **[Read my posts →](https://www.linkedin.com/in/aditya-singh-7210b2267/recent-activity/all/)**
 
----
+<br>
 
-**Made with 💙 by Aditya Singh | Let's Build the Future of AI Together! 🚀**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADITYASINGH77770000&style=flat-square&color=00d2e3&label=PROFILE+VIEWS" alt="Profile views">
+  <br><br>
+  <b>Keep building forward.</b>
+</p>
