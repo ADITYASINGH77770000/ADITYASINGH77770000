@@ -1,7 +1,8 @@
-name: Contribution snake
+name: Profile graphics
 
-# Redraws the snake that eats the contribution graph, once a day and on demand,
-# and publishes the SVGs to the `output` branch that the README links to.
+# Redraws the profile's live graphics once a day and on demand: the snake that eats
+# the contribution graph, and the "GitHub at a glance" stats card. Both land on the
+# `output` branch that the README links to; one deploy keeps them together.
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,10 +12,15 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  graphics:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+      - name: Stats card
+        run: python .github/scripts/stats.py "${{ github.repository_owner }}" dist/stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

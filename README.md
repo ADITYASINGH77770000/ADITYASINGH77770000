@@ -1,23 +1,39 @@
-<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami. Aditya Singh, AI Engineer, MCA in Generative AI at SRM IST, Delhi. Focus: LLMs and RAG, time-series ML, computer vision, quant research. Status: open to AI/ML engineering roles.">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2575FC&height=230&section=header&text=Aditya%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Computer%20Vision%20%C2%B7%20Quant%20ML&descSize=20&descAlignY=58" width="100%" alt="Aditya Singh, AI Engineer">
 
 <p align="center">
-  <a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/aditya-singh-7210b2267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:adssingh9090@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://huggingface.co/Aditya7777"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://www.kaggle.com/hjhjhjhhuhbjb"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+AI+systems+end+to+end;LLMs+%C2%B7+RAG+%C2%B7+agents;Time-series+forecasting+%C2%B7+quant+ML;Computer+vision+%C2%B7+geospatial+AI;Open+to+AI%2FML+engineering+roles" alt="I build AI systems end to end">
 </p>
 
-### Hey, I'm Aditya 👋
+<p align="center">
+  <a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/aditya-singh-7210b2267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:adssingh9090@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://huggingface.co/Aditya7777"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://www.kaggle.com/hjhjhjhhuhbjb"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt=""> Hey, I'm Aditya
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="">
 
 I build AI systems end to end, from the model to the API to the dashboard someone actually uses. Most of my work sits where ML meets real decisions: forecasting markets, scoring fraud risk, predicting floods.
 
-- 🎓 MCA in Generative AI at **SRM IST** (2025–27), after a BCA in Data Science
-- 💼 Google Student Ambassador · Data Science Intern at CodeClause · ML Intern at Encryptix
-- 🏆 4 hackathon podium finishes across 10+ hackathons
-- ✍️ I write deep-dives on ML systems on [LinkedIn](https://www.linkedin.com/in/aditya-singh-7210b2267/recent-activity/all/)
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" alt=""> &nbsp;MCA in Generative AI at <b>SRM IST</b> (2025–27), after a BCA in Data Science<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" alt=""> &nbsp;Google Student Ambassador · Data Science Intern at CodeClause · ML Intern at Encryptix<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="20" alt=""> &nbsp;4 hackathon podium finishes across 10+ hackathons<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20" alt=""> &nbsp;I write deep-dives on ML systems on <a href="https://www.linkedin.com/in/aditya-singh-7210b2267/recent-activity/all/">LinkedIn</a>
+</p>
 
-### 🔬 Projects
+<br clear="right">
+
+<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami. Aditya Singh, AI Engineer, MCA in Generative AI at SRM IST, Delhi. Focus: LLMs and RAG, time-series ML, computer vision, quant research. Status: open to AI/ML engineering roles.">
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt=""> Projects
 
 | Project | What the AI does | Built with |
 | :-- | :-- | :-- |
@@ -27,25 +43,47 @@ I build AI systems end to end, from the model to the API to the dashboard someon
 | **[Finnovix](https://github.com/ADITYASINGH77770000/Finance-Bot)**<br><sub>[live demo ↗](https://finnovix-bot-4.onrender.com/)</sub> | LSTM stock forecasting with anomaly detection and automated reports, behind an assistant for non-technical users | TensorFlow · Streamlit |
 | **[BrainWave](https://github.com/ADITYASINGH77770000/BrainWave)** | A Gemini-powered learning assistant for code generation, Q&A and summaries, on Transformers and spaCy NLP pipelines | Gemini · Transformers · spaCy |
 
-### 🏁 Hackathons
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-- 🥇 **Champions**, Code Jam Hackathon · SRM IST, Jan 2025
-- 🥈 **Runner-up**, Avinya '25 · NSUT, Apr 2025
-- 🏆 **Best Use of Gen AI**, HackHound 3.0 · Mar 2025
-- 🎖️ **Top 5**, Cube Innovators Hackathon · Tryst '25, IIT Delhi, Mar 2025
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="34" alt=""> Hackathons
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="22" alt=""> &nbsp;<b>Champions</b>, Code Jam Hackathon · SRM IST, Jan 2025<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/2nd%20Place%20Medal.png" width="22" alt=""> &nbsp;<b>Runner-up</b>, Avinya '25 · NSUT, Apr 2025<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" alt=""> &nbsp;<b>Best Use of Gen AI</b>, HackHound 3.0 · Mar 2025<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="22" alt=""> &nbsp;<b>Top 5</b>, Cube Innovators Hackathon · Tryst '25, IIT Delhi, Mar 2025
+</p>
 
 <sub>Also: LLM Engineering (Udemy) · ISRO Bharatiya Antariksh Hackathon 2026</sub>
 
-### 🧰 Toolbox
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-| Area | Tools |
-| :-- | :-- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **ML & DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **GenAI & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) |
-| **Data & deploy** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" alt=""> Toolbox
 
-### 🐍 My contributions, eaten
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,mysql,gcp,git&theme=dark&perline=9" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, MySQL, Google Cloud, Git">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="34" alt=""> GitHub at a glance
+
+<img src="https://raw.githubusercontent.com/ADITYASINGH77770000/ADITYASINGH77770000/output/stats.svg" width="100%" alt="GitHub at a glance: contributions, commits, public repositories, stars and top languages, redrawn daily">
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="34" alt=""> My contributions, eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYASINGH77770000/ADITYASINGH77770000/output/github-snake-dark.svg">
@@ -53,4 +91,18 @@ I build AI systems end to end, from the model to the API to the dashboard someon
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ADITYASINGH77770000/ADITYASINGH77770000/output/github-snake.svg">
 </picture>
 
-<p align="center"><sub>Thanks for stopping by · <img src="https://komarev.com/ghpvc/?username=ADITYASINGH77770000&style=flat-square&color=2ea44f&label=visitors" alt="Visitors" align="center"></sub></p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="34" alt=""> Let's connect
+
+I'm open to AI/ML engineering roles and collaborations. If you're building something with LLMs, forecasting or computer vision, I'd love to hear about it.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-singh-7210b2267/"><img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Say hi on LinkedIn"></a>
+  <a href="mailto:adssingh9090@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+  <a href="https://aditya-singh-ai-engineer.vercel.app/"><img src="https://img.shields.io/badge/See_my_portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See my portfolio"></a>
+</p>
+
+<p align="center"><sub>Thanks for stopping by · <img src="https://komarev.com/ghpvc/?username=ADITYASINGH77770000&style=flat-square&color=8E2DE2&label=visitors" alt="Visitors" align="center"></sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2575FC&height=120&section=footer" width="100%" alt="">
